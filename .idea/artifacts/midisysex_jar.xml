@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="midisysex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/midisysex_jar</output-path>
+    <root id="archive" name="midisysex.jar">
+      <element id="module-output" name="midisysex" />
+    </root>
+  </artifact>
+</component>
